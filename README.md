@@ -57,11 +57,6 @@ SkillUp/
 
 ---
 
-## 📸 Screenshots (Optional)
-
-(Add screenshots of your Home, Courses, and Contact pages here)
-
----
 
 ## 🔗 Repository Link
 
